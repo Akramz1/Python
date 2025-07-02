@@ -1,0 +1,1082 @@
+[
+    {
+        "question": "What is 5 + 3?",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "answer": "8",
+        "category": "Math",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is 10 - 4?",
+        "options": [
+            "6",
+            "7",
+            "4",
+            "5"
+        ],
+        "answer": "6",
+        "category": "Math",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is 9 × 1?",
+        "options": [
+            "9",
+            "10",
+            "8",
+            "7"
+        ],
+        "answer": "9",
+        "category": "Math",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is 6 ÷ 2?",
+        "options": [
+            "3",
+            "2",
+            "4",
+            "1"
+        ],
+        "answer": "3",
+        "category": "Math",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is 7 + 2?",
+        "options": [
+            "9",
+            "10",
+            "8",
+            "11"
+        ],
+        "answer": "9",
+        "category": "Math",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is 3 × 3?",
+        "options": [
+            "6",
+            "9",
+            "12",
+            "3"
+        ],
+        "answer": "9",
+        "category": "Math",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is 20 - 5?",
+        "options": [
+            "15",
+            "10",
+            "12",
+            "14"
+        ],
+        "answer": "15",
+        "category": "Math",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is 2 + 6?",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "answer": "8",
+        "category": "Math",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is 1 + 1?",
+        "options": [
+            "2",
+            "3",
+            "1",
+            "0"
+        ],
+        "answer": "2",
+        "category": "Math",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is 10 ÷ 5?",
+        "options": [
+            "2",
+            "3",
+            "5",
+            "1"
+        ],
+        "answer": "2",
+        "category": "Math",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the square root of 81?",
+        "options": [
+            "7",
+            "9",
+            "8",
+            "10"
+        ],
+        "answer": "9",
+        "category": "Math",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is 12 × 12?",
+        "options": [
+            "144",
+            "124",
+            "132",
+            "128"
+        ],
+        "answer": "144",
+        "category": "Math",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the value of pi to two decimal places?",
+        "options": [
+            "3.12",
+            "3.14",
+            "3.15",
+            "3.13"
+        ],
+        "answer": "3.14",
+        "category": "Math",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the area of a rectangle with sides 5 and 6?",
+        "options": [
+            "11",
+            "30",
+            "35",
+            "20"
+        ],
+        "answer": "30",
+        "category": "Math",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is 100 ÷ 4?",
+        "options": [
+            "25",
+            "20",
+            "40",
+            "30"
+        ],
+        "answer": "25",
+        "category": "Math",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is 3^3?",
+        "options": [
+            "6",
+            "9",
+            "27",
+            "18"
+        ],
+        "answer": "27",
+        "category": "Math",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the sum of angles in a triangle?",
+        "options": [
+            "180",
+            "90",
+            "360",
+            "270"
+        ],
+        "answer": "180",
+        "category": "Math",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the next prime after 7?",
+        "options": [
+            "9",
+            "10",
+            "11",
+            "13"
+        ],
+        "answer": "11",
+        "category": "Math",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is 8²?",
+        "options": [
+            "64",
+            "81",
+            "72",
+            "56"
+        ],
+        "answer": "64",
+        "category": "Math",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is 45 ÷ 9?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "9"
+        ],
+        "answer": "5",
+        "category": "Math",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the derivative of sin(x)?",
+        "options": [
+            "cos(x)",
+            "-cos(x)",
+            "-sin(x)",
+            "tan(x)"
+        ],
+        "answer": "cos(x)",
+        "category": "Math",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Solve for x: 2x + 3 = 11",
+        "options": [
+            "5",
+            "4",
+            "6",
+            "3"
+        ],
+        "answer": "4",
+        "category": "Math",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the integral of 1/x?",
+        "options": [
+            "ln|x| + C",
+            "x^2/2 + C",
+            "1/x^2 + C",
+            "log(x) + C"
+        ],
+        "answer": "ln|x| + C",
+        "category": "Math",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the limit of (1 + 1/n)^n as n approaches infinity?",
+        "options": [
+            "e",
+            "0",
+            "1",
+            "π"
+        ],
+        "answer": "e",
+        "category": "Math",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is 2^10?",
+        "options": [
+            "512",
+            "1024",
+            "2048",
+            "256"
+        ],
+        "answer": "1024",
+        "category": "Math",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the determinant of a 2x2 matrix [[a,b],[c,d]]?",
+        "options": [
+            "ad - bc",
+            "ab + cd",
+            "a + d",
+            "ac - bd"
+        ],
+        "answer": "ad - bc",
+        "category": "Math",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the second derivative of x^3?",
+        "options": [
+            "6x",
+            "3x^2",
+            "x^3",
+            "3x"
+        ],
+        "answer": "6x",
+        "category": "Math",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the sum of the first 10 natural numbers?",
+        "options": [
+            "55",
+            "45",
+            "60",
+            "50"
+        ],
+        "answer": "55",
+        "category": "Math",
+        "difficulty": "hard"
+    },
+    {
+        "question": "If logₐ(b) = c, what is b?",
+        "options": [
+            "a^c",
+            "c^a",
+            "a/c",
+            "a^b"
+        ],
+        "answer": "a^c",
+        "category": "Math",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the value of cos(0)?",
+        "options": [
+            "1",
+            "0",
+            "-1",
+            "Undefined"
+        ],
+        "answer": "1",
+        "category": "Math",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Venus"
+        ],
+        "answer": "Mars",
+        "category": "Science",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": [
+            "H2O",
+            "O2",
+            "CO2",
+            "HO"
+        ],
+        "answer": "H2O",
+        "category": "Science",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What gas do humans breathe in to survive?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Helium"
+        ],
+        "answer": "Oxygen",
+        "category": "Science",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which organ pumps blood through the body?",
+        "options": [
+            "Lungs",
+            "Heart",
+            "Liver",
+            "Brain"
+        ],
+        "answer": "Heart",
+        "category": "Science",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the freezing point of water in Celsius?",
+        "options": [
+            "0",
+            "32",
+            "100",
+            "10"
+        ],
+        "answer": "0",
+        "category": "Science",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What do bees produce?",
+        "options": [
+            "Milk",
+            "Honey",
+            "Wax",
+            "Pollen"
+        ],
+        "answer": "Honey",
+        "category": "Science",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the center of an atom called?",
+        "options": [
+            "Nucleus",
+            "Proton",
+            "Neutron",
+            "Electron"
+        ],
+        "answer": "Nucleus",
+        "category": "Science",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What sense organ lets you see?",
+        "options": [
+            "Nose",
+            "Tongue",
+            "Eyes",
+            "Ears"
+        ],
+        "answer": "Eyes",
+        "category": "Science",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which season is the hottest?",
+        "options": [
+            "Winter",
+            "Spring",
+            "Summer",
+            "Autumn"
+        ],
+        "answer": "Summer",
+        "category": "Science",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which gas do plants produce during photosynthesis?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Hydrogen",
+            "Nitrogen"
+        ],
+        "answer": "Oxygen",
+        "category": "Science",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What year did man first land on the moon?",
+        "options": [
+            "1969",
+            "1975",
+            "1959",
+            "1971"
+        ],
+        "answer": "1969",
+        "category": "Science",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which vitamin is produced in human skin with sunlight?",
+        "options": [
+            "Vitamin A",
+            "Vitamin B",
+            "Vitamin C",
+            "Vitamin D"
+        ],
+        "answer": "Vitamin D",
+        "category": "Science",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What gas is most abundant in the Earth's atmosphere?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "answer": "Nitrogen",
+        "category": "Science",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which part of the plant makes food?",
+        "options": [
+            "Stem",
+            "Leaves",
+            "Roots",
+            "Flower"
+        ],
+        "answer": "Leaves",
+        "category": "Science",
+        "difficulty": "medium"
+    },
+    {
+        "question": "How many legs does a spider have?",
+        "options": [
+            "6",
+            "8",
+            "10",
+            "12"
+        ],
+        "answer": "8",
+        "category": "Science",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "options": [
+            "Heart",
+            "Skin",
+            "Liver",
+            "Lungs"
+        ],
+        "answer": "Skin",
+        "category": "Science",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What metal is liquid at room temperature?",
+        "options": [
+            "Mercury",
+            "Gold",
+            "Aluminum",
+            "Lead"
+        ],
+        "answer": "Mercury",
+        "category": "Science",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the basic unit of life?",
+        "options": [
+            "Cell",
+            "Atom",
+            "Molecule",
+            "Organ"
+        ],
+        "answer": "Cell",
+        "category": "Science",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the boiling point of water in Celsius?",
+        "options": [
+            "90",
+            "100",
+            "110",
+            "120"
+        ],
+        "answer": "100",
+        "category": "Science",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which planet has the most moons?",
+        "options": [
+            "Earth",
+            "Mars",
+            "Saturn",
+            "Mercury"
+        ],
+        "answer": "Saturn",
+        "category": "Science",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "options": [
+            "Nucleus",
+            "Ribosome",
+            "Mitochondria",
+            "Chloroplast"
+        ],
+        "answer": "Mitochondria",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "options": [
+            "Marie Curie",
+            "Isaac Newton",
+            "Alexander Fleming",
+            "Louis Pasteur"
+        ],
+        "answer": "Alexander Fleming",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which part of the brain controls balance?",
+        "options": [
+            "Cerebrum",
+            "Cerebellum",
+            "Brainstem",
+            "Hypothalamus"
+        ],
+        "answer": "Cerebellum",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the scientific name of humans?",
+        "options": [
+            "Homo erectus",
+            "Homo sapiens",
+            "Australopithecus",
+            "Hominid"
+        ],
+        "answer": "Homo sapiens",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which blood type is known as the universal donor?",
+        "options": [
+            "O+",
+            "A-",
+            "O-",
+            "AB+"
+        ],
+        "answer": "O-",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the SI unit of electric current?",
+        "options": [
+            "Volt",
+            "Ampere",
+            "Ohm",
+            "Watt"
+        ],
+        "answer": "Ampere",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "How many bones are in the adult human body?",
+        "options": [
+            "206",
+            "201",
+            "210",
+            "196"
+        ],
+        "answer": "206",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which element has the atomic number 6?",
+        "options": [
+            "Oxygen",
+            "Carbon",
+            "Nitrogen",
+            "Helium"
+        ],
+        "answer": "Carbon",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What type of electromagnetic wave has the shortest wavelength?",
+        "options": [
+            "X-rays",
+            "Microwaves",
+            "Gamma rays",
+            "UV"
+        ],
+        "answer": "Gamma rays",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the formula for acceleration?",
+        "options": [
+            "v/t",
+            "d/t",
+            "f/m",
+            "mv"
+        ],
+        "answer": "v/t",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "options": [
+            "George Washington",
+            "Abraham Lincoln",
+            "John Adams",
+            "Thomas Jefferson"
+        ],
+        "answer": "George Washington",
+        "category": "History",
+        "difficulty": "easy"
+    },
+    {
+        "question": "In which country were the pyramids built?",
+        "options": [
+            "India",
+            "Peru",
+            "Egypt",
+            "Mexico"
+        ],
+        "answer": "Egypt",
+        "category": "History",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who was Cleopatra?",
+        "options": [
+            "Queen of Rome",
+            "Queen of Egypt",
+            "Greek Goddess",
+            "Roman Empress"
+        ],
+        "answer": "Queen of Egypt",
+        "category": "History",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who discovered America?",
+        "options": [
+            "Christopher Columbus",
+            "George Washington",
+            "Marco Polo",
+            "Napoleon"
+        ],
+        "answer": "Christopher Columbus",
+        "category": "History",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who wrote the Declaration of Independence?",
+        "options": [
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "Benjamin Franklin",
+            "George Washington"
+        ],
+        "answer": "Thomas Jefferson",
+        "category": "History",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which country gifted the Statue of Liberty to the USA?",
+        "options": [
+            "France",
+            "England",
+            "Spain",
+            "Italy"
+        ],
+        "answer": "France",
+        "category": "History",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who fought in the American Civil War?",
+        "options": [
+            "North & South",
+            "USA & UK",
+            "Democrats & Republicans",
+            "East & West"
+        ],
+        "answer": "North & South",
+        "category": "History",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Roman emperor built a wall across Britain?",
+        "options": [
+            "Hadrian",
+            "Augustus",
+            "Julius Caesar",
+            "Nero"
+        ],
+        "answer": "Hadrian",
+        "category": "History",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which war ended in 1945?",
+        "options": [
+            "World War II",
+            "World War I",
+            "Cold War",
+            "Vietnam War"
+        ],
+        "answer": "World War II",
+        "category": "History",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What was the name of the ship that sank in 1912?",
+        "options": [
+            "Titanic",
+            "Britannic",
+            "Lusitania",
+            "Mayflower"
+        ],
+        "answer": "Titanic",
+        "category": "History",
+        "difficulty": "easy"
+    },
+    {
+        "question": "In which year did World War II end?",
+        "options": [
+            "1945",
+            "1939",
+            "1942",
+            "1950"
+        ],
+        "answer": "1945",
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the 16th President of the United States?",
+        "options": [
+            "Abraham Lincoln",
+            "George Washington",
+            "Franklin D. Roosevelt",
+            "John Adams"
+        ],
+        "answer": "Abraham Lincoln",
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What ancient civilization built Machu Picchu?",
+        "options": [
+            "Inca",
+            "Maya",
+            "Aztec",
+            "Olmec"
+        ],
+        "answer": "Inca",
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What event began on July 28, 1914?",
+        "options": [
+            "World War I",
+            "World War II",
+            "The Great Depression",
+            "Cold War"
+        ],
+        "answer": "World War I",
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which leader is known for crossing the Alps with elephants?",
+        "options": [
+            "Hannibal",
+            "Napoleon",
+            "Caesar",
+            "Alexander the Great"
+        ],
+        "answer": "Hannibal",
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What was the name of Hitler's political party?",
+        "options": [
+            "Nazi",
+            "Fascist",
+            "Socialist",
+            "Democratic"
+        ],
+        "answer": "Nazi",
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which U.S. state was the last to join the union?",
+        "options": [
+            "Alaska",
+            "Hawaii",
+            "Arizona",
+            "New Mexico"
+        ],
+        "answer": "Hawaii",
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the Prime Minister of the UK during WWII?",
+        "options": [
+            "Churchill",
+            "Chamberlain",
+            "Blair",
+            "Thatcher"
+        ],
+        "answer": "Churchill",
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What country was split into East and West after WWII?",
+        "options": [
+            "Germany",
+            "France",
+            "Poland",
+            "Austria"
+        ],
+        "answer": "Germany",
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was known as the Maid of Orléans?",
+        "options": [
+            "Joan of Arc",
+            "Marie Antoinette",
+            "Elizabeth I",
+            "Catherine the Great"
+        ],
+        "answer": "Joan of Arc",
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What was the main cause of the Cold War?",
+        "options": [
+            "Ideological conflict between USA and USSR",
+            "Nuclear tests",
+            "Berlin Wall",
+            "Space Race"
+        ],
+        "answer": "Ideological conflict between USA and USSR",
+        "category": "History",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year did the Berlin Wall fall?",
+        "options": [
+            "1987",
+            "1989",
+            "1990",
+            "1985"
+        ],
+        "answer": "1989",
+        "category": "History",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which treaty ended World War I?",
+        "options": [
+            "Treaty of Versailles",
+            "Treaty of Paris",
+            "Treaty of London",
+            "Treaty of Rome"
+        ],
+        "answer": "Treaty of Versailles",
+        "category": "History",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which empire did Genghis Khan found?",
+        "options": [
+            "Mongol Empire",
+            "Ottoman Empire",
+            "Roman Empire",
+            "Persian Empire"
+        ],
+        "answer": "Mongol Empire",
+        "category": "History",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who led the Soviet Union during WWII?",
+        "options": [
+            "Stalin",
+            "Lenin",
+            "Khrushchev",
+            "Trotsky"
+        ],
+        "answer": "Stalin",
+        "category": "History",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the first female Prime Minister of the UK?",
+        "options": [
+            "Margaret Thatcher",
+            "Theresa May",
+            "Angela Merkel",
+            "Elizabeth II"
+        ],
+        "answer": "Margaret Thatcher",
+        "category": "History",
+        "difficulty": "hard"
+    },
+    {
+        "question": "When did the French Revolution begin?",
+        "options": [
+            "1789",
+            "1776",
+            "1804",
+            "1812"
+        ],
+        "answer": "1789",
+        "category": "History",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the last Tsar of Russia?",
+        "options": [
+            "Nicholas II",
+            "Ivan the Terrible",
+            "Peter the Great",
+            "Alexander III"
+        ],
+        "answer": "Nicholas II",
+        "category": "History",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What empire used a system called Satrapies?",
+        "options": [
+            "Persian Empire",
+            "Roman Empire",
+            "Byzantine Empire",
+            "Ottoman Empire"
+        ],
+        "answer": "Persian Empire",
+        "category": "History",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which battle marked the end of Napoleon’s rule?",
+        "options": [
+            "Waterloo",
+            "Trafalgar",
+            "Austerlitz",
+            "Leipzig"
+        ],
+        "answer": "Waterloo",
+        "category": "History",
+        "difficulty": "hard"
+    }
+]
