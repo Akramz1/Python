@@ -87,7 +87,6 @@ def remove_task():
 
 
 def mark_completed():
-    # Fixed: was using undefined 'tasks'
     display_task(the_list, "Current Tasks")
     if the_list:
         try:
