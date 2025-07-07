@@ -1,0 +1,23 @@
+{
+    "active_tasks": [
+        {
+            "name": "test 2nd task",
+            "category": "Work"
+        },
+        {
+            "name": "with different category",
+            "category": "Personal"
+        }
+    ],
+    "completed_tasks": [
+        {
+            "name": "test first task",
+            "category": "Work"
+        }
+    ],
+    "categories": [
+        "Work",
+        "Personal",
+        "Other"
+    ]
+}
