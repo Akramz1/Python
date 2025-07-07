@@ -155,6 +155,6 @@ while True:
             print("\nThanks for using the program!")
             break
         else:
-            print("Invalid choice. Please enter a number between 1-7.")
+            print("Invalid choice. Enter a number between 1-7.")
     except ValueError:
-        print("Please enter a valid number.")
+        print("Enter a valid number.")
