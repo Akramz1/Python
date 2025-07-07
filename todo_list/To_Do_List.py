@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-Filename = Path(r"D:\Project\python\todo_list\todo_listdata.json").absolute()
+Filename = Path("Enter your path in your file here").absolute()
 
 the_list = []
 completed_list = []
